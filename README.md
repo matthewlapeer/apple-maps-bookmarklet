@@ -2,7 +2,7 @@
 A Safari for iOS bookmarklet that opens Google search result addresses in Apple Maps
 
 ## See it in action
-<img width="600" height="1300" src="demo.gif" alt="demo of bookmarklet opening Apple Maps when used on Google search result screen">
+<img width="600" src="demo.gif" alt="demo of bookmarklet opening Apple Maps when used on Google search result screen">
 
 ## Installation
 As with all bookmarklets on iPhone, this will happen in multiple steps:
